@@ -1,7 +1,3 @@
-# 🖐️ Pinch Polygon - Webcam AI Tool
-
-A simple and fun **AI experiment** that lets you control geometric shapes with your hands!
-
 <div align="center">
   <img src="https://socialify.git.ci/alex1dev0/pinch-polygon/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Transparent&theme=Auto" alt="pinch-polygon" width="600" />
 </div>
